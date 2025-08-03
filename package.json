@@ -1,0 +1,12 @@
+{
+  "name": "movie-page-generator",
+  "version": "1.0.0",
+  "description": "Generates static pages for movies from Firebase",
+  "main": "generate-pages.js",
+  "scripts": {
+    "start": "node generate-pages.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.11.1"
+  }
+}
